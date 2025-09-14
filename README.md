@@ -1,4 +1,4 @@
-# FashionAI - Your Personal Style Assistant
+# FitCheck-Ai - Your Personal Style Assistant
 
 A mobile-first web application that uses **real AI** to analyze your outfit photos and provide intelligent fashion feedback. Simply take a photo of your outfit and get instant, honest analysis on how it looks and suggestions for improvement.
 
@@ -150,4 +150,5 @@ Potential features for future versions:
 
 This is a demo application. For questions or issues, please check the code comments or modify the functionality as needed.
 
-Enjoy styling with FashionAI! 👗✨
+Enjoy styling with FitCheck-Ai! 👗✨
+
